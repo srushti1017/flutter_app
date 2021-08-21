@@ -1,1 +1,1 @@
-# flutter_app
+# Flutter App which executes all linux commands.
